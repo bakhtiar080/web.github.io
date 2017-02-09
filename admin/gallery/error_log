@@ -1,0 +1,128 @@
+[20-Dec-2012 13:25:50 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:25:50 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:25:50 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:25:50 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:25:50 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bkwil1'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/gallery/gallery.php on line 234
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/edit.php on line 3
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/edit.php on line 4
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/add-more.php on line 3
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/add-more.php on line 4
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:00:46 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/gallery/gallery.php on line 234
+[10-Jan-2014 17:30:16 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:30:16 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:30:16 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/edit.php on line 3
+[10-Jan-2014 17:30:16 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/edit.php on line 4
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/edit.php on line 3
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/edit.php on line 4
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/edit.php on line 3
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/edit.php on line 4
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:30:17 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/gallery/gallery.php on line 234
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/gallery/gallery.php on line 234
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/gallery/gallery.php on line 234
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/add-more.php on line 3
+[10-Jan-2014 17:30:18 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/add-more.php on line 4
+[10-Jan-2014 17:30:19 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:30:19 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:30:19 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/add-more.php on line 3
+[10-Jan-2014 17:30:19 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/add-more.php on line 4
+[10-Jan-2014 17:30:19 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:30:19 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:30:19 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/add-more.php on line 3
+[10-Jan-2014 17:30:19 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/add-more.php on line 4
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/edit.php on line 2
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/edit.php on line 3
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/edit.php on line 4
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/add-more.php on line 2
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/bkwil1/public_html/admin/gallery/add-more.php on line 3
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Notice:  Undefined index: des in /home/bkwil1/public_html/admin/gallery/add-more.php on line 4
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 63
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 101
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/gallery/gallery.php on line 230
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/gallery/gallery.php on line 232
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/gallery/gallery.php on line 234

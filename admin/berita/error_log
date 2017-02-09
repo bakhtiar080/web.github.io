@@ -1,0 +1,155 @@
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bkwil1'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[20-Dec-2012 13:28:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/berita.php on line 170
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bkwil1'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[20-Dec-2012 13:28:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/detail.php on line 22
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access koneksi.php in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include(koneksi.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[20-Dec-2012 13:28:26 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/berita.php on line 170
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/bkwil1/public_html/admin/berita/detail.php on line 18
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:00:47 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/detail.php on line 22
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:01:57 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/berita.php on line 170
+[10-Jan-2014 17:02:05 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:02:05 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:03:53 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:03:53 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:03:53 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/bkwil1/public_html/admin/berita/detail.php on line 18
+[10-Jan-2014 17:03:53 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:03:53 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:03:53 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/detail.php on line 22
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:30:21 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/berita.php on line 170
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/berita.php on line 170
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/berita.php on line 170
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:30:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/bkwil1/public_html/admin/berita/detail.php on line 18
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/detail.php on line 22
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/bkwil1/public_html/admin/berita/detail.php on line 18
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:30:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/detail.php on line 22
+[10-Jan-2014 17:30:24 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:30:24 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:30:24 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/bkwil1/public_html/admin/berita/detail.php on line 18
+[10-Jan-2014 17:30:24 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:30:24 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:30:24 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/detail.php on line 22
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 17
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 80
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 125
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/berita.php on line 166
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/berita.php on line 168
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/berita.php on line 170
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/edit.php on line 3
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bkwil1/public_html/admin/berita/detail.php on line 17
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Notice:  Undefined index: detail in /home/bkwil1/public_html/admin/berita/detail.php on line 18
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'rudy'@'localhost' (using password: NO) in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bkwil1/public_html/admin/berita/detail.php on line 20
+[10-Jan-2014 17:35:02 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bkwil1/public_html/admin/berita/detail.php on line 22

@@ -1,0 +1,1 @@
+[11-Jul-2016 09:50:17 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bkwil2/public_html/login/checklogin.php on line 10
